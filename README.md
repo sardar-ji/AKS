@@ -11,7 +11,7 @@ Step 2:
 
 •	Set kubectl and azure-cli on your machine.
 o	brew install kubectl
-o	brew install kubernetes-cli
+o	brew install azure-cli
 
 •	Set service-principle account.
 o	az ad sp create-for-rbac --skip-assignment
